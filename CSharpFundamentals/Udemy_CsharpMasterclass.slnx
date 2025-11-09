@@ -2,5 +2,5 @@
   <Folder Name="/Assignments/">
     <Project Path="SimpleCalculator/SimpleCalculator.csproj" Id="a3102036-7afd-490e-9496-54b9455fc9e3" />
   </Folder>
-  <Project Path="TodoList/TodoList.csproj" />
+  <Project Path="TodoList/TodoList-CSharpFundamentals.csproj" />
 </Solution>
