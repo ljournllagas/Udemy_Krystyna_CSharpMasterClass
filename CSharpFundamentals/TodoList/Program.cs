@@ -130,11 +130,6 @@
 //    return true;
 //}
 
-
-
-using System;
-using System.Collections.Generic;
-
 class Program
 {
     static void Main()
@@ -146,7 +141,7 @@ class Program
 
 class TodoApp
 {
-    private readonly List<string> todos = new();
+    private readonly List<string> todos = [];
 
     public void Run()
     {
